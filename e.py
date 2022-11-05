@@ -11,4 +11,3 @@ for i in range(h):
             print(' ', end=' ')
         print('*', end=' ')
     print()
-0
